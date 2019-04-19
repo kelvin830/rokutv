@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA PLAYOFFS", 76ers@Nets
-http://11.shacs.club/hls/live.m3u8
 #EXTINF:-1, group-title="NBA PLAYOFFS", Nuggets@Spurs
 http://11.shacs.club/hls2/live.m3u8
 #EXTINF:-1, group-title="NBA PLAYOFFS", Warriors@Clippers
