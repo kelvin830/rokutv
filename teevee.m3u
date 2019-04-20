@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, group-title="EPL LIVE", Newcastle vs Southampton
+https://hls.goodgame.ru/hls/163887.m3u8
 #EXTINF:-1, group-title="NBA PLAYOFFS", 76ers@Nets
 https://bit.ly/2veU10g
 #EXTINF:-1, group-title="ASIAN TV", ANIPLUS
