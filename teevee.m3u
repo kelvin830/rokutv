@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="EPL LIVE", West Ham vs Leicester
-http://bnk.sportz.is/espn3.m3u8
-#EXTINF:-1, group-title="EPL LIVE", Wolves vs Brighton
-http://bnk.sportz.is/espn5.m3u8
 #EXTINF:-1, group-title="NBA PLAYOFFS", 76ers@Nets
 https://bit.ly/2veU10g
 #EXTINF:-1, group-title="ASIAN TV", ANIPLUS
