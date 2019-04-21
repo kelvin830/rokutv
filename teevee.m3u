@@ -1,6 +1,4 @@
 EXTM3U
-#EXTINF:-1, group-title="BOXING LIVE", Crawford vs Khan
-http://11.eculi.club/hls/live.m3u8
 #EXTINF:-1, group-title="NBA PLAYOFFS", Rockets@Jazz
 http://bnk.sportz.is/espn2.m3u8
 #EXTINF:-1, group-title="ASIAN TV", ANIPLUS
