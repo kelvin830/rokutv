@@ -1,6 +1,4 @@
 EXTM3U
-#EXTINF:-1, group-title="NBA LIVE", Raptors@Magic
-http://11.grenu.club/hls/live.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Blazers@Thunder
 http://11.grenu.club/hls/live.m3u8
 #EXTINF:-1, group-title="ASIAN TV", ANIPLUS
