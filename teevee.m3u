@@ -1,4 +1,8 @@
-EXTM3U
+#EXTM3U
+#EXTINF:-1, group-title="NBA PLAYOFFS", Celtics@Bucks
+http://185.246.209.220:80/tnt_hd/mpegts
+#EXTINF:-1, group-title="NBA PLAYOFFS", Rockets@Warriors
+http://185.246.209.220:80/tnt_hd/mpegts
 #EXTINF:-1, group-title="ASIAN TV", ANIPLUS
 http://45.126.83.51/dr9445/h/h02/01.m3u8
 #EXTINF:-1, group-title="ASIAN TV", ANIMAX
