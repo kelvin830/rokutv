@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1, group-title="EUROPA LEAGUE", Arsenal vs Valencia
+http://198.255.6.44:25464/usaottmex/rxogMBTte9/4129
+#EXTINF:-1, group-title="EUROPA LEAGUE", E Frankfurt vs Chelsea
+http://198.255.6.44:25464/usaottmex/rxogMBTte9/4127
 #EXTINF:-1, group-title="ASIAN TV", ANIPLUS
 http://45.126.83.51/dr9445/h/h02/01.m3u8
 #EXTINF:-1, group-title="ASIAN TV", ANIMAX
