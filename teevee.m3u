@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="Champions League", Liverpool vs Barcelona
-http://185.246.209.220:80/tnt_hd/mpegts
 #EXTINF:-1, group-title="NBA PLAYOFFS", Blazers@Nuggets
 http://185.246.209.220:80/tnt_hd/mpegts
 #EXTINF:-1, group-title="ASIAN TV", ANIPLUS
