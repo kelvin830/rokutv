@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA PLAYOFFS", Raptors@76ers 1
-http://11.niree.club/hls/live.m3u8
-#EXTINF:-1, group-title="NBA PLAYOFFS", Raptors@76ers 2
-http://sducsdmvdfhbn.ivcvi.club/e/chunks.m3u8
+#EXTINF:-1, group-title="NBA PLAYOFFS", Bucks@Celtics
+https://bit.ly/2L6uIIP
+#EXTINF:-1, group-title="NBA PLAYOFFS", Nuggets@Blazers
+https://bit.ly/2L6uIIP
 #EXTINF:-1, group-title="ASIAN TV", ANIPLUS
 http://45.126.83.51/dr9445/h/h02/01.m3u8
 #EXTINF:-1, group-title="ASIAN TV", ANIMAX
