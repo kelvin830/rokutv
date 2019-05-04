@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="HORSERACING", Kentucky Derby
-http://68.132.101.37:9981/stream/channelid/1422147240
-#EXTINF:-1, group-title="HORSERACING", Kentucky Derby 2
-http://w6.11223344.host/live/nbc/chunks.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Warriors@Rockets 1
 http://bnk.bankai.stream/espn2.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Warriors@Rockets 2
