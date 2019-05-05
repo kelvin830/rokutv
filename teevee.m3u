@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA LIVE", Warriors@Rockets 1
-http://bnk.bankai.stream/espn2.m3u8
-#EXTINF:-1, group-title="NBA LIVE", Warriors@Rockets 2
-http://185.246.209.220:80/abc_hd/mpegts
-#EXTINF:-1, group-title="BOXING LIVE", Canelo Alvarez vs Daniel Jacobs 9AM 
-http://22.noote.club/hls/live.m3u8
-#EXTINF:-1, group-title="BOXING LIVE", Canelo Alvarez vs Daniel Jacobs 2 9AM 
-http://vbkfgjbmdnne.ivcvi.club/b/chunks.m3u8
 #EXTINF:-1, group-title="ASIAN TV", Fox Asia
 http://iliketot.dyndns.tv/d0bfb50bee3741a09c53f8099a64ad52.m3u8
 #EXTINF:-1, group-title="ASIAN TV", Fox Action Movies
