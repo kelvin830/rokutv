@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA PLAYOFFS", 76ers@Raptors 1
-http://fjosdjofjnjdfj.ivcvi.club/r/chunks.m3u8
-#EXTINF:-1, group-title="NBA PLAYOFFS", 76ers@Raptors 2
-http://11.elold.club/hls/live.m3u8
 #EXTINF:-1, group-title="NBA PLAYOFFS", Blazers@Nuggets
 http://11.elold.club/hls/live.m3u8
 #EXTINF:-1, group-title="ASIAN TV", HBO Asia
@@ -165,6 +161,8 @@ https://bit.ly/2MLGOUM
 https://bit.ly/2Gl696D
 #EXTINF:-1,group-title="WORLD TV",COMEDY CENTRAL
 http://185.246.209.220:80/comedycentral_hd/mpegts
+#EXTINF:-1,group-title="WORLD TV",CMT
+https://bit.ly/2Hadne0
 #EXTINF:-1,group-title="WORLD TV",CNN
 https://bit.ly/2PBtWC2
 #EXTINF:-1,group-title="WORLD TV",CW
