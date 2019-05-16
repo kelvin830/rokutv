@@ -1,40 +1,18 @@
 #EXTM3U
-#EXTINF:-1, group-title="ASIAN TV", HBO Asia
-https://bit.ly/2WDH505
-#EXTINF:-1, group-title="ASIAN TV", HBO Signature
-https://bit.ly/2Ebes30
-#EXTINF:-1, group-title="ASIAN TV", HBO Hits
-https://bit.ly/30kgF5W
-#EXTINF:-1, group-title="ASIAN TV", HBO Family
-https://bit.ly/2LHK1aS
 #EXTINF:-1, group-title="ASIAN TV", Fox Asia
 http://iliketot.dyndns.tv/d0bfb50bee3741a09c53f8099a64ad52.m3u8
-#EXTINF:-1, group-title="ASIAN TV", Fox Life
-https://bit.ly/2YxFbPb
 #EXTINF:-1, group-title="ASIAN TV", Fox Action Movies
 http://iliketot.dyndns.tv/206105b34a1c44b886c6cd3c59105803.m3u8
-#EXTINF:-1, group-title="ASIAN TV", Fox Movies Premium
-https://bit.ly/2Q6mPBE
-#EXTINF:-1, group-title="ASIAN TV", Cinemax
-https://bit.ly/2vXMcwn
 #EXTINF:-1, group-title="ASIAN TV", Comedy Central
 http://iliketot.dyndns.tv/2f18d4ba25224edaa8bb9aac94b00d4f.m3u8
 #EXTINF:-1, group-title="ASIAN TV", Fox Crime
 http://iliketot.dyndns.tv/48773319e9324602b258e3f1d33ec111.m3u8
 #EXTINF:-1, group-title="ASIAN TV", FX
 http://iliketot.dyndns.tv/2e0e4b05aa6e428593f3b45b710045b7.m3u8
-#EXTINF:-1, group-title="ASIAN TV", Fox Sports 1
-https://bit.ly/2J3NcYf
 #EXTINF:-1, group-title="ASIAN TV", Fox Sports 2
 http://iliketot.dyndns.tv/02cb79ab0b0c418f847148ca9e2baed4.m3u8
 #EXTINF:-1, group-title="ASIAN TV", Fox Sports 3
 http://iliketot.dyndns.tv/443ea6ef1768462aaffdff38ce2a4355.m3u8
-#EXTINF:-1, group-title="ASIAN TV", Beinsports 1 Indo 
-https://bit.ly/2DNDwgv
-#EXTINF:-1, group-title="ASIAN TV", Beinsports 2 Indo 
-https://bit.ly/2J4u3Wj
-#EXTINF:-1, group-title="ASIAN TV", Beinsports 3 Indo 
-https://bit.ly/2Wt2x81
 #EXTINF:-1, group-title="ASIAN TV", ANIPLUS
 http://45.126.83.51/dr9445/h/h02/01.m3u8
 #EXTINF:-1, group-title="ASIAN TV", ANIMAX
