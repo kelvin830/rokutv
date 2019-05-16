@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA PLAYOFFS", Raptors@bucks 1
-http://11.sulae.club/hls/live.m3u8
-#EXTINF:-1, group-title="NBA PLAYOFFS", Raptors@Bucks 2
-http://11.sulae.club/hls2/live.m3u8
-#EXTINF:-1, group-title="NBA PLAYOFFS", Raptors@Bucks 3
-http://fsdvbgfnffedsd.ivcvi.club/t/chunks.m3u8
-#EXTINF:-1, group-title="NBA PLAYOFFS", Raptors@Bucks 4
-http://sdfsdfgngfnnr.ivcvi.club/r/chunks.m3u8
 #EXTINF:-1, group-title="ASIAN TV", HBO Asia
 https://bit.ly/2WDH505
 #EXTINF:-1, group-title="ASIAN TV", HBO Signature
@@ -228,4 +220,4 @@ http://stream1.news5.ph:1935/n5e/aksyon/chunklist_w909427008.m3u8
 #EXTINF:-1, group-title="PINOY TV", TV5/ESPN 5
 http://stream1.news5.ph/n5e/tv5_2/chunklist_w1724505218.m3u8
 #EXTINF:-1, group-title="PINOY TV", ABS CBN
-https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbnhd_1@388790/index_500_av-p.m3u8?sd=10&rebase=on&id=AgDKOSIcef6IBmZp21wMOjBUk3p7UVGlR6iJfCNbZc7MuL47Bw9cujhCPp8g6D6jwvLIFKWUUTJqeA%3d%3d&hdntl=exp=1557969638~acl=%2f*~data=hdntl~hmac=5253942ce354e4ee848571516564b4272e27d38c0fd708a4a62e7b9905d7136c
+https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbnhd_1@388790/index_500_av-p.m3u8?sd=10&rebase=on&id=AgDKOSIcef6IPj7S3FyZPeMQdMe18YSgzovswBoHFMkXBRhwG43yYHWEOd41ZU7o93Je00o23hYQeg%3d%3d&hdntl=exp=1558062014~acl=%2f*~data=hdntl~hmac=5c1458d235f8c41069c42610a9392778b0bde7bf200f51ddefd6ea0cf939282b
