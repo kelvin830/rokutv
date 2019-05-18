@@ -2,6 +2,8 @@
 #EXTINF:-1, group-title="NBA PLAYOFFS", Warriors@Blazers 1
 http://11.onens.club/hls2/live.m3u8
 #EXTINF:-1, group-title="NBA PLAYOFFS", Warriors@Blazers 2
+http://bnk.bankai.stream/espn2.m3u8
+#EXTINF:-1, group-title="NBA PLAYOFFS", Warriors@Blazers 3
 https://bit.ly/2E0xEQV
 #EXTINF:-1, group-title="UFC LIVE", UFC on 10
 http://11.onens.club/hls/live.m3u8
