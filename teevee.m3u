@@ -1,28 +1,8 @@
 #EXTM3U
 #EXTINF:-1, group-title="ASIAN TV", Fox Asia
 http://iliketot.dyndns.tv/d0bfb50bee3741a09c53f8099a64ad52.m3u8
-#EXTINF:-1, group-title="ASIAN TV", Fox Life
-http://tvku.live:8888/1188/1188/94
 #EXTINF:-1, group-title="ASIAN TV", Fox Action Movies
 http://iliketot.dyndns.tv/206105b34a1c44b886c6cd3c59105803.m3u8
-#EXTINF:-1, group-title="ASIAN TV", Fox Movies Premium
-http://id.warungtv.com:8888/2019/2019/98
-#EXTINF:-1, group-title="ASIAN TV", Fox Family Movies
-http://id.warungtv.com:8888/2019/2019/1493
-#EXTINF:-1, group-title="ASIAN TV", HBO Asia
-http://tvku.live:8888/1188/1188/210
-#EXTINF:-1, group-title="ASIAN TV", HBO Hits
-http://tvku.live:8888/1188/1188/591
-#EXTINF:-1, group-title="ASIAN TV", HBO Family
-http://tvku.live:8888/1188/1188/592
-#EXTINF:-1, group-title="ASIAN TV", HBO Signature
-http://tvku.live:8888/1188/1188/873
-#EXTINF:-1, group-title="ASIAN TV", Red by HBO
-http://tvku.live:8888/1188/1188/874
-#EXTINF:-1, group-title="ASIAN TV", TvN
-http://tvku.live:8888/1188/1188/767
-#EXTINF:-1, group-title="ASIAN TV", TvN Movies
-http://tvku.live:8888/1188/1188/927
 #EXTINF:-1, group-title="ASIAN TV", Comedy Central
 http://iliketot.dyndns.tv/2f18d4ba25224edaa8bb9aac94b00d4f.m3u8
 #EXTINF:-1, group-title="ASIAN TV", Fox Crime
