@@ -1,32 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="ASIAN TV", MTV Live 
-http://iliketot.dyndns.tv/8d45473ff4ca44d79e1abc4516c2fee0.m3u8
-#EXTINF:-1, group-title="ASIAN TV", MTV Asia
-http://iliketot.dyndns.tv/ebce2f5139c54eda8b111e5923af9c9e.m3u8
-#EXTINF:-1, group-title="ASIAN TV", MTV China
-http://iliketot.dyndns.tv/deb56e700dbc4d9ea5af08e9d300a675.m3u8
-#EXTINF:-1, group-title="ASIAN TV", Channel V
-http://iliketot.dyndns.tv/9e38a0084e6d45d080139a166c60a102.m3u8
-#EXTINF:-1, group-title="ASIAN TV", Fox Asia
-http://iliketot.dyndns.tv/d0bfb50bee3741a09c53f8099a64ad52.m3u8
-#EXTINF:-1, group-title="ASIAN TV", Fox Life
-http://iliketot.dyndns.tv/65f7358b813048a0898f5677e1793cf9.m3u8
-#EXTINF:-1, group-title="ASIAN TV", Fox Action Movies
-http://iliketot.dyndns.tv/206105b34a1c44b886c6cd3c59105803.m3u8
-#EXTINF:-1, group-title="ASIAN TV", Comedy Central
-http://iliketot.dyndns.tv/2f18d4ba25224edaa8bb9aac94b00d4f.m3u8
-#EXTINF:-1, group-title="ASIAN TV", Fox Crime
-http://iliketot.dyndns.tv/48773319e9324602b258e3f1d33ec111.m3u8
-#EXTINF:-1, group-title="ASIAN TV", FX
-http://iliketot.dyndns.tv/2e0e4b05aa6e428593f3b45b710045b7.m3u8
-#EXTINF:-1, group-title="ASIAN TV", Fox Sports 2
-http://iliketot.dyndns.tv/02cb79ab0b0c418f847148ca9e2baed4.m3u8
-#EXTINF:-1, group-title="ASIAN TV", Fox Sports 3
-http://iliketot.dyndns.tv/443ea6ef1768462aaffdff38ce2a4355.m3u8
-#EXTINF:-1, group-title="ASIAN TV", Nat Geo
-http://iliketot.dyndns.tv/850a8ca433184938bfaeaf770abc5d7a.m3u8
-#EXTINF:-1, group-title="ASIAN TV", Nat Geo Wild
-http://iliketot.dyndns.tv/90d14bbf53d14b018d4439ffba6be283.m3u8
 #EXTINF:-1, group-title="ASIAN TV", ANIPLUS
 http://45.126.83.51/dr9445/h/h02/01.m3u8
 #EXTINF:-1, group-title="ASIAN TV", ANIMAX
