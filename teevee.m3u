@@ -43,6 +43,14 @@ http://45.126.83.51/uq2663/h/h03/index2.m3u8
 http://45.126.83.51/uq2663/h/h05/index2.m3u8
 #EXTINF:-1, group-title="ASIAN TV", MUTV
 https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/prog_index.m3u8
+#EXTINF:-1, group-title="WORLD TV", ABC NEW YORK
+https://bit.ly/31lUYCT
+#EXTINF:-1, group-title="WORLD TV", CBS NEW YORK
+https://bit.ly/2IA0SYo
+#EXTINF:-1, group-title="WORLD TV", FOX NEW YORK
+https://bit.ly/2wJeCdN
+#EXTINF:-1, group-title="WORLD TV", NBC NEW YORK
+https://bit.ly/2Zah2P0
 #EXTINF:-1, group-title="PINOY TV", SHOP TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/chunklist_w743726554.m3u8
 #EXTINF:-1, group-title="PINOY TV", LIFE TV
