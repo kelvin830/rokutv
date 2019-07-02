@@ -191,3 +191,13 @@ https://iwantpradals2-lh.akamaihd.net/i/ocpanc_1@520818/index_800_av-p.m3u8?sd=1
 https://bit.ly/2INs9qr
 #EXTINF:-1, group-title="PINOY TV", ABS CBN
 https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbnhd_1@388790/index_800_av-p.m3u8?sd=10&rebase=on&id=AgDKOSIcef6IHtzJGV03OtwpDVXqYSXB%2fK+z7IF2P%2fsH561nOCKrJQlQuq7hdvOP4Ct4KEbZl1%2f+cg%3d%3d&hdntl=exp=1562057564~acl=%2f*~data=hdntl~hmac=6fcbdb90c2a09487c97c6acd18b492ac1bf086a3b9175e6c6057922066173ad9
+#EXTINF:-1 tvg-id="" tvg-name="BRAZILIAN: RECORD NEWS" tvg-logo="http://aux4.iconspalace.com/uploads/701165867.png" group-title="BRAZILIAN TV",BRAZILIAN: RECORD NEWS
+http://thepk.co:2086/cliffm11/8113918843/50693
+#EXTINF:-1 tvg-id="" tvg-name="BRAZILIAN: RECORD TV" tvg-logo="http://aux4.iconspalace.com/uploads/701165867.png" group-title="BRAZILIAN TV",BRAZILIAN: RECORD TV
+http://thepk.co:2086/cliffm11/8113918843/50697
+#EXTINF:-1 tvg-id="" tvg-name="BRAZILIAN: REDE RECORD" tvg-logo="http://aux4.iconspalace.com/uploads/701165867.png" group-title="BRAZILIAN TV",BRAZILIAN: REDE RECORD
+http://thepk.co:2086/cliffm11/8113918843/50695
+#EXTINF:-1 tvg-id="" tvg-name="BRAZILIAN: SBT" tvg-logo="http://aux4.iconspalace.com/uploads/701165867.png" group-title="BRAZILIAN TV",BRAZILIAN: SBT
+http://thepk.co:2086/cliffm11/8113918843/50692
+#EXTINF:-1 tvg-id="" tvg-name="BRAZILIAN: SBT BRAZIL" tvg-logo="http://aux4.iconspalace.com/uploads/701165867.png" group-title="BRAZILIAN TV",BRAZILIAN: SBT BRAZIL
+http://thepk.co:2086/cliffm11/8113918843/50691
