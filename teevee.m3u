@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1, group-title="UFC 239", UFC 239 MAIN CARD 1
 http://11.nosto.xyz/hls/live.m3u8
-#EXTINF:-1, group-title="UFC 239", UFC 239 MAIN CARD 2
-http://thenew.tv:8000/963125478/357951456/83382
 #EXTINF:-1, group-title="ASIAN TV", ANIPLUS
 http://45.126.83.51/dr9445/h/h02/01.m3u8
 #EXTINF:-1, group-title="ASIAN TV", ANIMAX
