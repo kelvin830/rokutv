@@ -208,9 +208,9 @@ http://stream1.news5.ph:1935/n5e/aksyon/chunklist_w909427008.m3u8
 #EXTINF:-1, group-title="PINOY TV", TV5/ESPN 5
 http://stream1.news5.ph/n5e/tv5_2/chunklist_w1724505218.m3u8
 #EXTINF:-1, group-title="PINOY TV", ANC NEWS CHANNEL
-https://iwantpradals2-lh.akamaihd.net/i/ocpanc_1@520818/index_800_av-p.m3u8?sd=10&rebase=on&id=AgDKOSIcFztIDa+7Kl1PRW1GJgQc1147k%2fATHGuSeTlqeP1cIWpxx1CxFtaTsZBiH6PXhJ57I%2fviyA%3d%3d&hdntl=exp=1563168047~acl=%2f*~data=hdntl~hmac=71ff281990d8d15439403a351a97b069e8869ffecd372c14cf1fedf3832cb83c
+https://iwantpradals2-lh.akamaihd.net/i/ocpanc_1@520818/index_800_av-p.m3u8?sd=10&rebase=on&id=AgB4HXAzykW4DPZvLV3gkbyM1HKZymGOowc18%2fTwoUScAbs2OrqFQdlml00ubVVUZJJhyYP+E3lT7Q%3d%3d&hdntl=exp=1563345270~acl=%2f*~data=hdntl~hmac=ddbc4c7e13acbdd2205ee849564d2d00454297127d148c9cd50e0790095e5a69
 #EXTINF:-1, group-title="PINOY TV", ABS CBN
-https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbnhd_1@388790/index_800_av-p.m3u8?sd=10&rebase=on&id=AgDKOSIcFztIDX27Kl2wthkP8W6gHBM6y9yaAl+hKcaf3FM295Ra8Vwo9Tjhldpd4+tGRXNlCjTdIQ%3d%3d&hdntl=exp=1563167997~acl=%2f*~data=hdntl~hmac=f84bddbec9c4183a417400a244e810e3170699f386ae6dfda236db52fd702de2
+https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbnhd_1@388790/index_1500_av-b.m3u8?sd=10&rebase=on&id=AgB4HXAzykW4DrtvLV2bt8La1ynne9Iq34BaQHs+o27I6SZVUtSXjOeSbODmEigdfhXkxpAku68pHw%3d%3d&hdntl=exp=1563345211~acl=%2f*~data=hdntl~hmac=1735cca3662f84c29cf85f967811d192e2462d492309bbcc93e5ee056dab5d48
 #EXTINF:-1 tvg-id="" tvg-name="BRAZILIAN: RECORD NEWS" tvg-logo="http://aux4.iconspalace.com/uploads/701165867.png" group-title="BRAZILIAN TV",BRAZILIAN: RECORD NEWS
 http://thepk.co:2086/cliffm11/8113918843/50693
 #EXTINF:-1 tvg-id="" tvg-name="BRAZILIAN: RECORD TV" tvg-logo="http://aux4.iconspalace.com/uploads/701165867.png" group-title="BRAZILIAN TV",BRAZILIAN: RECORD TV
