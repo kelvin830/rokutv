@@ -224,6 +224,4 @@ http://thepk.co:2086/cliffm11/8113918843/50697
 #EXTINF:-1 tvg-id="" tvg-name="BRAZILIAN: REDE RECORD" tvg-logo="http://aux4.iconspalace.com/uploads/701165867.png" group-title="BRAZILIAN TV",BRAZILIAN: REDE RECORD
 http://thepk.co:2086/cliffm11/8113918843/50695
 #EXTINF:-1 tvg-id="" tvg-name="BRAZILIAN: SBT" tvg-logo="http://aux4.iconspalace.com/uploads/701165867.png" group-title="BRAZILIAN TV",BRAZILIAN: SBT
-http://thepk.co:2086/cliffm11/8113918843/50692
-#EXTINF:-1 tvg-id="" tvg-name="BRAZILIAN: SBT BRAZIL" tvg-logo="http://aux4.iconspalace.com/uploads/701165867.png" group-title="BRAZILIAN TV",BRAZILIAN: SBT BRAZIL
-http://thepk.co:2086/cliffm11/8113918843/50691
+https://azuls.azureedge.net/hls1/sbt.m3u8
