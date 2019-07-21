@@ -1,24 +1,6 @@
 #EXTM3U
 #EXTINF:-1, group-title="BOXING LIVE", Pacquiao vs Thurman 1
 http://11.lurex.xyz/hls2/live.m3u8
-#EXTINF:-1, group-title="BOXING LIVE", Pacquiao vs Thurman 3
-https://bit.ly/2XUJ1G5
-#EXTINF:-1, group-title="BOXING LIVE", Pacquiao vs Thurman 4
-https://bit.ly/2GljPxO
-#EXTINF:-1, group-title="BOXING LIVE", Pacquiao vs Thurman 5
-https://bit.ly/2JHXMDK
-#EXTINF:-1, group-title="BOXING LIVE", Pacquiao vs Thurman 6
-http://103.194.171.4:1935/live/box/playlist.m3u8
-#EXTINF:-1, group-title="BOXING LIVE", Pacquiao vs Thurman 7
-http://gmrstream.watchaseries.xyz/hls/itvhd/chunks.m3u8
-#EXTINF:-1, group-title="BOXING LIVE", Pacquiao vs Thurman 8
-http://ul.cdn946.net:8080/hls/nvltt.m3u8?s=W37osqK6Ly8RWTBj9EqCvA&e=1563700728
-#EXTINF:-1, group-title="BOXING LIVE", Pacquiao vs Thurman 9
-http://183.89.118.89:1040
-#EXTINF:-1, group-title="BOXING LIVE", Pacquiao vs Thurman 10
-https://bit.ly/2Lxs0LC
-#EXTINF:-1, group-title="UFC LIVE", Dos Anjos vs Edwards
-http://11.lurex.xyz/hls/live.m3u8
 #EXTINF:-1, group-title="ASIAN TV", ANIPLUS
 http://45.126.83.51/dr9445/h/h02/01.m3u8
 #EXTINF:-1, group-title="ASIAN TV", ANIMAX
