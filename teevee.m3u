@@ -208,14 +208,8 @@ http://stream1.news5.ph:1935/n5e/aksyon/chunklist_w909427008.m3u8
 #EXTINF:-1, group-title="PINOY TV", TV5/ESPN 5
 http://stream1.news5.ph/n5e/tv5_2/chunklist_w1724505218.m3u8
 #EXTINF:-1, group-title="PINOY TV", ANC NEWS CHANNEL
-https://bit.ly/2LVc8lv
+https://bit.ly/2M4subw
 #EXTINF:-1, group-title="PINOY TV", ABS CBN
-https://bit.ly/2NFysSE
-#EXTINF:-1 tvg-id="" tvg-name="BRAZILIAN: RECORD NEWS" tvg-logo="http://aux4.iconspalace.com/uploads/701165867.png" group-title="BRAZILIAN TV",BRAZILIAN: RECORD NEWS
-http://thepk.co:2086/cliffm11/8113918843/50693
-#EXTINF:-1 tvg-id="" tvg-name="BRAZILIAN: RECORD TV" tvg-logo="http://aux4.iconspalace.com/uploads/701165867.png" group-title="BRAZILIAN TV",BRAZILIAN: RECORD TV
-http://thepk.co:2086/cliffm11/8113918843/50697
-#EXTINF:-1 tvg-id="" tvg-name="BRAZILIAN: REDE RECORD" tvg-logo="http://aux4.iconspalace.com/uploads/701165867.png" group-title="BRAZILIAN TV",BRAZILIAN: REDE RECORD
-http://thepk.co:2086/cliffm11/8113918843/50695
+https://bit.ly/2IulQbg
 #EXTINF:-1 tvg-id="" tvg-name="BRAZILIAN: SBT" tvg-logo="http://aux4.iconspalace.com/uploads/701165867.png" group-title="BRAZILIAN TV",BRAZILIAN: SBT
 https://azuls.azureedge.net/hls1/sbt.m3u8
