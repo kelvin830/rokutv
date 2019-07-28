@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:-1, group-title="UFC LIVE", UFC 240 1
-http://ierkfmvnbemrfhgneffdeferh.rgdjb.me/e/chunks.m3u8
+http://111.vitoa.club/hls/live.m3u8
 #EXTINF:-1, group-title="UFC LIVE", UFC 240 2
+http://ierkfmvnbemrfhgneffdeferh.rgdjb.me/e/chunks.m3u8
+#EXTINF:-1, group-title="UFC LIVE", UFC 240 3
 http://plaf.raptorz.xyz/live/media_540_2560/chunks.m3u8
 #EXTINF:-1, group-title="Request", WARM BODIES
 http://stg.pz10139.parspack.net/Films/Warm.Bodies.2013/Warm.Bodies.2013.720p.ShAaNiG.mkv
