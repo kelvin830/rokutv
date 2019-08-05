@@ -209,7 +209,9 @@ http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 http://stream1.news5.ph:1935/n5e/aksyon/chunklist_w909427008.m3u8
 #EXTINF:-1, group-title="PINOY TV", TV5/ESPN 5
 http://stream1.news5.ph/n5e/tv5_2/chunklist_w1724505218.m3u8
+#EXTINF:-1, group-title="PINOY TV", DZMM TELERADYO
+https://iwantpradals2-lh.akamaihd.net/i/ocpdzmm_1@520817/index_800_av-b.m3u8?sd=10&rebase=on&sd=10&rebase=on&id=AgB4HXAzykW4TW5rSF0xVY3RuOXpJEADr0rJa6naDmbSFOWSOp4nsy7gcxm34h%2f8JgXhrqk27DDczg%3d%3d&hdntl=exp=1565113582~acl=%2f*~data=hdntl~hmac=5c1842fb4add30eb567d0933c09e7018ef521ee5be859aa604fd98800eef8d98
 #EXTINF:-1, group-title="PINOY TV", ANC NEWS CHANNEL
-https://iwantpradals2-lh.akamaihd.net/i/ocpanc_1@520818/index_800_av-p.m3u8?sd=10&rebase=on&sd=10&rebase=on&id=AgDKOSIcFztIFoHnRl1HrIXFkQhRleHezLyOXSvoCfd2KKeOfscv4hf+%2fU3mz+iaNXLf4AfGazfd1A%3d%3d&hdntl=exp=1565014273~acl=%2f*~data=hdntl~hmac=71bcaef0ef73e7e157acdec2f00aa0afc33f0d0ab1df4cff3cf29ab0147dd457
+https://iwantpradals2-lh.akamaihd.net/i/ocpanc_1@520818/index_800_av-p.m3u8?sd=10&rebase=on&sd=10&rebase=on&id=AgB4HXAzykW4TStrSF1Ad%2fIqi%2f3H51mgnZj%2fkR5MA7bRZmhRFfPPe+1wFpk+7sHxA7Up2yapsm8WYw%3d%3d&hdntl=exp=1565113515~acl=%2f*~data=hdntl~hmac=9488f9d5005d45313749ec998952bef9bb8c4ed3e59c24db85a0e33caca9995c
 #EXTINF:-1, group-title="PINOY TV", ABS CBN
-https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbnhd_1@388790/index_1500_av-p.m3u8?sd=10&rebase=on&sd=10&rebase=on&id=AgDKOSIcFztIBl7nRl2gFswifjpQFmJitT9yR3jsp+4t62O3oGAUmUPhEBrmzsfz1rDdR0RNVzFoTg%3d%3d&hdntl=exp=1565014238~acl=%2f*~data=hdntl~hmac=6f8493fce821ad2db89d0e984f78ce8fd24868ab45611e0e0187e23aa286ce21
+https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbnhd_1@388790/index_1500_av-p.m3u8?sd=10&rebase=on&sd=10&rebase=on&id=AgB4HXAzykW4TvRqSF2fMejS+hoVvL%2f5klQila7Z4IojYAb6fqPGB73wXHRMTjdH3LiJtysXpeMkSQ%3d%3d&hdntl=exp=1565113460~acl=%2f*~data=hdntl~hmac=0a1ebda59fd9ea07c34e63c968fc4f75bcdf5f92b87a6bbdc932a8bf09320008
