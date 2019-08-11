@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1, group-title="EPL", Newcastle vs Arsenal
-https://bit.ly/2KGF66B
+http://1.azureedge.eu/live/a/index.m3u8
+#EXTINF:-1, group-title="EPL", Leicester vs Wolves
+http://storage.nicotech.xyz/live/CH2/index.m3u8
 #EXTINF:-1, group-title="EPL", Manchester United vs Chelsea
 https://bit.ly/2KGF66B
 #EXTINF:-1, group-title="ASIAN TV", FX
