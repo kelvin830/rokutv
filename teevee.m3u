@@ -237,6 +237,8 @@ http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 http://stream1.news5.ph:1935/n5e/aksyon/chunklist_w909427008.m3u8
 #EXTINF:-1, group-title="PINOY TV", TV5/ESPN 5
 http://stream1.news5.ph/n5e/tv5_2/chunklist_w1724505218.m3u8
+#EXTINF:-1, group-title="PINOY TV", GMA NEWS TV
+http://bit.ly/33YNneD
 #EXTINF:-1, group-title="PINOY TV", GMA PINOY TV
 http://bit.ly/30tXQg4
 #EXTINF:-1, group-title="PINOY TV", CINEMA ONE
