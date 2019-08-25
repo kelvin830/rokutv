@@ -69,8 +69,6 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 http://45.126.83.51/uq2663/h/h03/index2.m3u8
 #EXTINF:-1, group-title="ASIAN TV", FIGHT SPORT
 http://45.126.83.51/uq2663/h/h05/index2.m3u8
-#EXTINF:-1, group-title="ASIAN TV", MUTV
-https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/prog_index.m3u8
 #EXTINF:-1, group-title="WORLD TV", ABC NEW YORK
 https://bit.ly/31B4r8R
 #EXTINF:-1, group-title="WORLD TV", CBS NEW YORK
@@ -238,4 +236,4 @@ https://bit.ly/2KLYQa7
 #EXTINF:-1, group-title="PINOY TV", ANC NEWS CHANNEL
 https://bit.ly/2KLZjsT
 #EXTINF:-1, group-title="PINOY TV", ABS CBN
-https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbnhd_1@388790/index_600_av-p.m3u8?sd=10&rebase=on&sd=10&rebase=on&id=AgDKOSIcFztIBuG3YF1gq28uJ4rri30Xlar350zf3Ifr5drojiRUPP7hzE9TUcQoSnOhUogCshS%2fCA%3d%3d&hdntl=exp=1566706017~acl=%2f*~data=hdntl~hmac=09f3341ba2bc7cf37ec52b35ed83289fee0d8d9d870d89712e95f3af9b95c536
+https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbnhd_1@388790/index_600_av-p.m3u8?sd=10&rebase=on&sd=10&rebase=on&id=AgDKOSIcFztIDcchYl1yQEyYnrlZ7A0Okq8dsZUa6o+3veeWM8CSDeAjPIox3au+HJTiaSToYs5F1Q%3d%3d&hdntl=exp=1566798663~acl=%2f*~data=hdntl~hmac=d8f50c54e0ef2222fd97db0fff123d69c1f972d5649223aa6838addd6957e460
