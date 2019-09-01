@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, group-title="EPL LIVE", Arsenal v Tottenham 1
+https://cdx.dailysport.pw/1/1.m3u8
 #EXTINF:-1, group-title="F1 LIVE", Belgian Grand Prix
 https://bit.ly/2LiEEeU
 #EXTINF:-1, group-title="ASIAN TV", FX
