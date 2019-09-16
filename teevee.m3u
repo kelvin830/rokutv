@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="BOXING LIVE", Fury vs Wallin
-http://111rpl.nosto.xyz/hls/live.m3u8
 #EXTINF:-1, group-title="ASIAN TV", FX
 http://iliketot.dyndns.tv/2e0e4b05aa6e428593f3b45b710045b7.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAxNyAxOjM2OjExIEFNJmhhc2hfdmFsdWU9T1lvZDZ5TjFaWk53M3J4OWZOTWtFUT09JnZhbGlkbWludXRlcz0yJmlkPW1jZ2x5bWFyfDc2MXxpcHR2aGVyb3wxNTA4NjM2MTcxfDIyMy4yMDUuMTIyLjE2Nw
 #EXTINF:-1, group-title="ASIAN TV", FOX LIFE
@@ -246,4 +244,4 @@ https://bit.ly/2KLYQa7
 #EXTINF:-1, group-title="PINOY TV", ANC NEWS CHANNEL
 https://bit.ly/2KLZjsT
 #EXTINF:-1, group-title="PINOY TV", ABS CBN
-https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbnhd_1@388790/index_1500_av-p.m3u8?sd=10&rebase=on&sd=10&rebase=on&id=AgDKOSIcFztIBlaufV1u8933b3CXhtk1XpMqr%2f1ZkYmZ7aGrNco4SngD4sGDMpVtnXV7tN8RTXnpWw%3d%3d&hdntl=exp=1568604118~acl=%2f*~data=hdntl~hmac=2f5163b8bda876b6913cd792aad3af6d0bf94e3c5125d569567e0451a92e38cf
+https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbnhd_1@388790/index_1500_av-p.m3u8?sd=10&rebase=on&sd=10&rebase=on&id=AgDKOSIcFztIDfEjf12wAqddf0AmZBvPrgzF%2fdqR8XXWmwszQtGPMWpQDculi7NPjJF6YRCzGqSPZw%3d%3d&hdntl=exp=1568699761~acl=%2f*~data=hdntl~hmac=89ed8073eb5eb922156c334269266da900e4d676ea6634551f8e192f2a682927
