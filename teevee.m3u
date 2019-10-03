@@ -87,14 +87,14 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 http://45.126.83.51/uq2663/h/h03/index2.m3u8
 #EXTINF:-1, group-title="ASIAN TV", FIGHT SPORT
 http://45.126.83.51/uq2663/h/h05/index2.m3u8
-#EXTINF:-1, group-title="WORLD TV", ABC NEW YORK
-https://bit.ly/2n4UnWR
-#EXTINF:-1, group-title="WORLD TV", CBS NEW YORK
-https://bit.ly/2lGhwhG
-#EXTINF:-1, group-title="WORLD TV", FOX NEW YORK
-https://bit.ly/2kBMTtp
-#EXTINF:-1, group-title="WORLD TV", NBC NEW YORK
-https://bit.ly/2kh9bAf
+#EXTINF:-1, group-title="WORLD TV", ABC LOS ANGELES
+https://bit.ly/32YWZEZ
+#EXTINF:-1, group-title="WORLD TV", CBS LOS ANGELES
+https://bit.ly/2McmVGl
+#EXTINF:-1, group-title="WORLD TV", FOX LOS ANGELES
+https://bit.ly/2LHZaqE
+#EXTINF:-1, group-title="WORLD TV", NBC LOS ANGELES
+https://bit.ly/2oLwO66
 #EXTINF:-1, group-title="WORLD TV", ESPN
 https://bit.ly/2mDvn8z
 #EXTINF:-1, group-title="WORLD TV", ESPN 2
@@ -160,7 +160,7 @@ https://bit.ly/2Me7r4C
 #EXTINF:-1, group-title="WORLD TV", COOKING CHANNEL
 https://bit.ly/32ZWfPV
 #EXTINF:-1, group-title="WORLD TV", CMT
-https://bit.ly/2lSW1dd
+https://bit.ly/2oJUzLH
 #EXTINF:-1, group-title="WORLD TV", CW
 https://bit.ly/2lO5i6l
 #EXTINF:-1, group-title="WORLD TV", E NETWORK
@@ -188,19 +188,19 @@ https://bit.ly/31KcNeJ
 #EXTINF:-1, group-title="WORLD TV", HBO
 https://bit.ly/30J3OZN
 #EXTINF:-1, group-title="WORLD TV", HBO COMEDY
-https://bit.ly/2kJYrdZ
+https://bit.ly/333vkCK
 #EXTINF:-1, group-title="WORLD TV", HBO FAMILY
 https://bit.ly/2In6Tsd
 #EXTINF:-1, group-title="WORLD TV", HBO SIGNATURE
-https://bit.ly/2lO42QP
+https://bit.ly/2oOuFX9
 #EXTINF:-1, group-title="WORLD TV", HBO ZONE
-https://bit.ly/2lvgl4K
+https://bit.ly/2AEBCg9
 #EXTINF:-1, group-title="WORLD TV", SHOWTIME
 https://bit.ly/31KcSz3
 #EXTINF:-1, group-title="WORLD TV", SHOWTIME EXTREME
-https://bit.ly/2kxJc81
+https://bit.ly/31Kemt7
 #EXTINF:-1, group-title="WORLD TV", STARZ
-https://bit.ly/31Upiod
+https://bit.ly/2Me9VQu
 #EXTINF:-1, group-title="WORLD TV", SKY MOVIES ACTION
 https://bit.ly/31LEung
 #EXTINF:-1, group-title="WORLD TV", SKY MOVIES COMEDY
