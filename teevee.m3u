@@ -87,8 +87,8 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 http://45.126.83.51/uq2663/h/h03/index2.m3u8
 #EXTINF:-1, group-title="ASIAN TV", FIGHT SPORT
 http://45.126.83.51/uq2663/h/h05/index2.m3u8
-#EXTINF:-1, group-title="WORLD TV", ABC LOS ANGELES
-https://bit.ly/32YWZEZ
+#EXTINF:-1, group-title="WORLD TV", ABC 
+http://bit.ly/2oYEIc6
 #EXTINF:-1, group-title="WORLD TV", CBS LOS ANGELES
 https://bit.ly/2McmVGl
 #EXTINF:-1, group-title="WORLD TV", FOX LOS ANGELES
