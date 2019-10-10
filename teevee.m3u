@@ -239,15 +239,5 @@ http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 http://stream3.news5.ph:1935/n5e/5plus/chunklist_w1099733335.m3u8
 #EXTINF:-1, group-title="PINOY TV", TV5/ESPN 5
 http://stream3.news5.ph/n5e/tv5/chunklist_w413021893.m3u8
-#EXTINF:-1, group-title="PINOY TV", GMA NEWS TV
-http://bit.ly/33YNneD
-#EXTINF:-1, group-title="PINOY TV", GMA PINOY TV
-http://bit.ly/30tXQg4
-#EXTINF:-1, group-title="PINOY TV", CINEMA ONE
-http://bit.ly/33yLa9y
-#EXTINF:-1, group-title="PINOY TV", DZMM TELERADYO
-https://bit.ly/2KLYQa7
-#EXTINF:-1, group-title="PINOY TV", ANC NEWS CHANNEL
-https://bit.ly/2KLZjsT
 #EXTINF:-1, group-title="PINOY TV", ABS CBN
-https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbnhd_1@388790/index_1500_av-p.m3u8?sd=10&rebase=on&sd=10&rebase=on&id=AgB4HXBLYBGXFSfym11g0OTSoEo9kEuM5KJt0AyPbOsF1oaREYa9B2Y5JED+c45qx5VdasfBtkE%2fEQ%3d%3d&hdntl=exp=1570587559~acl=%2f*~data=hdntl~hmac=a9c8d8a9b1f18f8252767b06a75b13d95008395b2b825072cbc955fef4fb9691
+https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbnhd_1@388790/index_1500_av-p.m3u8?sd=10&rebase=on&sd=10&rebase=on&id=AgBnDFt2FzDJPQzrnl3Bzdhw46pnMZkO1JpwgYqIPBDOeUWss0yp0uu8ti4suyGNdrIMytt%2ffeJY8A%3d%3d&hdntl=exp=1570782348~acl=%2f*~data=hdntl~hmac=e528827a885e88188988599ca7e09449d47fc93ddff33c33513a36132eb5a3bb
