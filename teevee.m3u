@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA PRESEASON", Bucks vs TWolves
-http://the.wizardz.xyz/show/mil/chunks.m3u8
-#EXTINF:-1, group-title="NBA PRESEASON", Bulls vs Hawks
+#EXTINF:-1, group-title="NBA PRESEASON", Clippers vs Mavs
 http://the.wizardz.xyz/show/nbatv/chunks.m3u8
 #EXTINF:-1, group-title="NBA PRESEASON", Nuggets vs Blazers
 http://the.wizardz.xyz/show/den/chunks.m3u8
