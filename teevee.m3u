@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1, group-title="CHAMPIONS LEAGUE", Inter vs Dortmund
 http://lfuvgjdfmefrfb.vbtuv.club/live/c/chunks.m3u8
+#EXTINF:-1, group-title="CHAMPIONS LEAGUE", Prague vs Barca
+http://lfuvgjdfmefrfb.vbtuv.club/live/b/chunks.m3u8
+#EXTINF:-1, group-title="CHAMPIONS LEAGUE", Genk vs Liverpool
+http://lfuvgjdfmefrfb.vbtuv.club/live/l/chunks.m3u8
 #EXTINF:-1, group-title="PINOY TV", ABS CBN
 https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbnhd_1@388790/index_1500_av-p.m3u8?sd=10&rebase=on&sd=10&rebase=on&id=AgB4HXBLFwIQFiizsF2wbgkNHKEPMjy2hbUFfgXYocAJaWA4jcxN3vrg97TLuASZBFO32%2f9tPN5xow%3d%3d&hdntl=exp=1571947688~acl=%2f*~data=hdntl~hmac=505092a4f26fdfc3e7e5938cee61fc7a21fe4d4cb5a38834104a0400ceb89970
 #EXTINF:-1, group-title="PINOY TV", TV5/ESPN 5
