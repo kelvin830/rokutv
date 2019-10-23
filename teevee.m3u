@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA", Lakers vs Clippers (TNT)
-http://the.celticsz.xyz/show/tnt/chunks.m3u8
-#EXTINF:-1, group-title="NBA", Lakers vs Clippers (TSN)
-http://gah.warriorz.xyz/show/tsn/chunks.m3u8
-#EXTINF:-1, group-title="NBA", Lakers vs Clippers
-https://bit.ly/2p8gTP7
 #EXTINF:-1, group-title="PINOY TV", ABS CBN
 https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbnhd_1@388790/index_1500_av-p.m3u8?sd=10&rebase=on&sd=10&rebase=on&id=AgB4HXBLykW4BGeMrl2KC0rvJWuiGDRpydUDbDCbIIrT8PXS0b0zavhd1Sg7KVG%2f66DOLxkIcUWa0w%3d%3d&hdntl=exp=1571806695~acl=%2f*~data=hdntl~hmac=76402f518396fdc8f5083c14e4103ff59470ffd3536a72ba1385dc00391759fb
 #EXTINF:-1, group-title="PINOY TV", TV5/ESPN 5
