@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1, group-title="NBA LIVE", Bulls@Hornets
 http://da.celticsz.xyz/show/chi/chunks.m3u8
-#EXTINF:-1, group-title="NBA LIVE, Pistons@Pacers
+#EXTINF:-1, group-title="NBA LIVE", Pistons@Pacers
 http://da.celticsz.xyz/show/det/chunks.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Cavs@Magic
 http://da.celticsz.xyz/show/orl/chunks.m3u8
