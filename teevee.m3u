@@ -5,6 +5,8 @@ http://the.celticsz.xyz/show/tnt/chunks.m3u8
 http://the.celticsz.xyz/show/spn/chunks.m3u8
 #EXTINF:-1, group-title="NBA", Raptors vs Pelicans (backup)
 https://bit.ly/2p8gTP7
+#EXTINF:-1, group-title="NBA", Lakers vs Clippers (TNT)
+http://the.celticsz.xyz/show/tnt/chunks.m3u8
 #EXTINF:-1, group-title="NBA", Lakers vs Clippers
 https://bit.ly/2p8gTP7
 #EXTINF:-1, group-title="PINOY TV", ABS CBN
