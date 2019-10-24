@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA LIVE", TWolves@Nets
-http://da.celticsz.xyz/show/bkn/chunks.m3u8
-#EXTINF:-1, group-title="NBA LIVE", Grizzlies@Heat
-http://da.celticsz.xyz/show/mia/chunks.m3u8
-#EXTINF:-1, group-title="NBA LIVE", Celtics@76ers
-http://da.celticsz.xyz/show/phi/chunks.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Wizards@Mavs
 http://da.celticsz.xyz/show/dal/chunks.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Knicks@Spurs
