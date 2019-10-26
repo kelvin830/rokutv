@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA LIVE", Blazers vs Kings
-http://the.maverickz.xyz/show/por/chunks.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Jazz vs Lakers
 http://the.maverickz.xyz/show/lal/chunks.m3u8
 #EXTINF:-1, group-title="PINOY TV", ABS CBN
@@ -127,6 +125,34 @@ https://bit.ly/2oodiNc
 https://bit.ly/2IG6npc
 #EXTINF:-1, group-title="WORLD TV", WWE NETWORK
 https://bit.ly/2Bxu3Z3
+#EXTINF:-1, group-title="WORLD TV", BT SPORT 1
+https://live.dufree4k.net//02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1, group-title="WORLD TV", BT SPORT 2
+https://live.dufree4k.net//02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1, group-title="WORLD TV", SKYNET SPORTS HD
+https://live.dufree4k.net//03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:-1, group-title="WORLD TV", SKYNET SPORTS 1
+https://live.dufree4k.net//03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1, group-title="WORLD TV", SKYNET SPORTS 2
+https://live.dufree4k.net//03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1, group-title="WORLD TV", SKYNET SPORTS 3
+https://live.dufree4k.net//03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1, group-title="WORLD TV", SKYNET SPORTS 4
+https://live.dufree4k.net//03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1, group-title="WORLD TV", SKYNET SPORTS 5
+https://live.dufree4k.net//03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1, group-title="WORLD TV", SKYNET SPORTS 6
+https://live.dufree4k.net//03_skynetsport6_480p/chunklist.m3u8
+#EXTINF:-1, group-title="WORLD TV", EPL 1
+https://live.dufree4k.net//02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1, group-title="WORLD TV", EPL 2
+https://live.dufree4k.net//02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1, group-title="WORLD TV", EPL 3
+https://live.dufree4k.net//02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1, group-title="WORLD TV", EPL 4
+https://live.dufree4k.net//02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1, group-title="WORLD TV", EPL 5
+https://live.dufree4k.net//02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1, group-title="WORLD TV", A&E
 https://bit.ly/35sJyPU
 #EXTINF:-1, group-title="WORLD TV", AMC
