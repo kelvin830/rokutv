@@ -3,6 +3,12 @@
 http://the.maverickz.xyz/show/phi/chunks.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Magic vs Hawks
 http://the.maverickz.xyz/show/orl/chunks.m3u8
+#EXTINF:-1, group-title="NBA LIVE", Pacers vs Cavs
+http://the.maverickz.xyz/show/ind/chunks.m3u8
+#EXTINF:-1, group-title="NBA LIVE", Raptors vs Bulls
+http://the.maverickz.xyz/show/tor/chunks.m3u8
+#EXTINF:-1, group-title="NBA LIVE", Pelicans vs Rockets
+http://the.maverickz.xyz/show/hou/chunks.m3u8
 #EXTINF:-1, group-title="PINOY TV", ABS CBN
 https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbnhd_1@388790/index_1500_av-p.m3u8?sd=10&rebase=on&sd=10&rebase=on&id=AgBnDFtyF8iOLMG0s12V8sOfffVr7CsyHfbcQKZ3uO4cGrbDt%2f9bQrJk727S%2fD%2fNyH9aAgJm7rCzIA%3d%3d&hdntl=exp=1572144705~acl=%2f*~data=hdntl~hmac=79d0592c1e0ef1d7757c2d50c9bffeed078f62a27e61880dae7afddd9aeae556
 #EXTINF:-1, group-title="PINOY TV", TV5/ESPN 5
