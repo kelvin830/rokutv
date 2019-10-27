@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA LIVE", Pacers vs Cavs
-http://the.maverickz.xyz/show/ind/chunks.m3u8
-#EXTINF:-1, group-title="NBA LIVE", Raptors vs Bulls
-http://the.maverickz.xyz/show/tor/chunks.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Pelicans vs Rockets
 http://the.maverickz.xyz/show/hou/chunks.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Wizards vs Spurs
