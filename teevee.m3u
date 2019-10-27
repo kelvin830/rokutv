@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1, group-title="NBA LIVE", Grizzlies vs Nets
 http://the.maverickz.xyz/show/bkn/chunks.m3u8
+#EXTINF:-1, group-title="NBA LIVE", Hornets vs Lakers 1
+http://the.maverickz.xyz/show/lal/chunks.m3u8
+#EXTINF:-1, group-title="NBA LIVE", Hornets vs Lakers 2
+https://bit.ly/2qHTMvE
 #EXTINF:-1, group-title="PINOY TV", ABS CBN
 https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbnhd_1@388790/index_1500_av-p.m3u8?sd=10&rebase=on&sd=10&rebase=on&id=AgCYIGNFFwIQF3EPtV12xg%2ffyY8zjvlZns0lByihVBGfyuW2aXvHJ+IdYR5WjSHMHL9CFxK4QN09TA%3d%3d&hdntl=exp=1572233457~acl=%2f*~data=hdntl~hmac=dadc93db7c17a16292e448e098de5347a6ac1aea761633dc987cd7fb27f05155
 #EXTINF:-1, group-title="PINOY TV", TV5/ESPN 5
