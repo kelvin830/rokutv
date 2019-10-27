@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA LIVE", Wizards vs Spurs
-http://the.maverickz.xyz/show/sas/chunks.m3u8
-#EXTINF:-1, group-title="NBA LIVE", Kings vs Jazz
-http://the.maverickz.xyz/show/sac/chunks.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Clippers vs Suns
 http://the.maverickz.xyz/show/lac/chunks.m3u8
 #EXTINF:-1, group-title="PINOY TV", ABS CBN
