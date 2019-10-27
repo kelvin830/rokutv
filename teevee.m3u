@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1, group-title="NBA LIVE", Grizzlies vs Nets
 http://the.maverickz.xyz/show/bkn/chunks.m3u8
+#EXTINF:-1, group-title="NBA LIVE", TWolves vs Heat
+http://the.maverickz.xyz/show/min/chunks.m3u8
+#EXTINF:-1, group-title="NBA LIVE", Mavs vs TBlazers
+http://the.maverickz.xyz/show/por/chunks.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Hornets vs Lakers 1
 http://the.maverickz.xyz/show/lal/chunks.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Hornets vs Lakers 2
