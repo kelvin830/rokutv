@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA LIVE", Heat vs Hawks
-http://the.rondoz.xyz/show/tnt/chunks.m3u8
-#EXTINF:-1, group-title="NBA LIVE", Nuggets vs Pelicans
-http://the.rondoz.xyz/show/tnt/chunks.m3u8
-#EXTINF:-1, group-title="NBA LIVE", Clippers vs Spurs
-http://the.rondoz.xyz/show/sas/chunks.m3u8
 #EXTINF:-1, group-title="PINOY TV", ABS CBN
 https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbnhd_1@388790/index_1500_av-p.m3u8?sd=10&rebase=on&sd=10&rebase=on&id=AgCYIGQlFwIQF+sHul3JDQ%2f0lk8zkWUsUcPOZIDgvACstf6uQw0iHHWrZYr5TdbeMdkYK9NOF%2fK5+g%3d%3d&hdntl=exp=1572559211~acl=%2f*~data=hdntl~hmac=76c94b4d3bbcae7a35c7edb2530c6d3cd398a9e55a3b51343abb5d463eb1c08b
 #EXTINF:-1, group-title="PINOY TV", TV5/ESPN 5
