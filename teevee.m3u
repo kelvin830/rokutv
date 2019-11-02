@@ -1,16 +1,6 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA LIVE", Rockets vs Blazers
-http://the.blazerz.xyz/show/bkn/chunks.m3u8
-#EXTINF:-1, group-title="NBA LIVE", Cavs vs Pacers
-http://the.blazerz.xyz/show/ind/chunks.m3u8
-#EXTINF:-1, group-title="NBA LIVE", Magic vs Bucks
-http://the.blazerz.xyz/show/mil/chunks.m3u8
-#EXTINF:-1, group-title="NBA LIVE", Knicks vs Celtics
-http://the.blazerz.xyz/show/bos/chunks.m3u8
-#EXTINF:-1, group-title="NBA LIVE", Pistons vs Bulls
-http://the.blazerz.xyz/show/det/chunks.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Lakers vs Mavs
-http://the.blazerz.xyz/show/lal/chunks.m3u8
+http://the.blazerz.xyz/show/hou/chunks.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Jazz vs Kings
 http://the.blazerz.xyz/show/sac/chunks.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Spurs vs Warriors
