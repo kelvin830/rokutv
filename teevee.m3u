@@ -3,8 +3,6 @@
 http://jyu.cavaliersz.xyz/show/dazn/playlist.m3u8
 #EXTINF:-1, group-title="UFC LIVE", Masvidal vs Diaz
 http://xi111.yzachu.xyz/hls/live.m3u8
-#EXTINF:-1, group-title="NBA LIVE", Raptors vs Bucks
-http://jyu.cavaliersz.xyz/show/mil/chunks.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Hornets vs Warriors
 http://jyu.cavaliersz.xyz/show/cha/chunks.m3u8
 #EXTINF:-1, group-title="NBA LIVE", 76ers vs Blazers
