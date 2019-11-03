@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1, group-title="BOXING LIVE", Canelo vs Kovalev
 http://jyu.cavaliersz.xyz/show/dazn/playlist.m3u8
+#EXTINF:-1, group-title="UFC LIVE", Masvidal vs Diaz
+http://xi111.yzachu.xyz/hls/live.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Nets vs Pistons
 http://jyu.cavaliersz.xyz/show/det/chunks.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Nuggets vs Magic
