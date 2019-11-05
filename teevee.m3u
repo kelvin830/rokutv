@@ -7,6 +7,8 @@ http://the.piercez.xyz/show/bkn/chunks.m3u8
 http://the.piercez.xyz/show/mem/chunks.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Bucks vs TWolves
 http://the.piercez.xyz/show/min/chunks.m3u8
+#EXTINF:-1, group-title="NBA LIVE", 76ers vs Suns
+http://the.piercez.xyz/show/phi/chunks.m3u8
 #EXTINF:-1, group-title="PINOY TV", ABS CBN
 https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbnhd_1@388790/index_1000_av-p.m3u8?sd=10&rebase=on&sd=10&rebase=on&id=AgBuNvBey7EmVP5NwF27UymU%2fvECG2FTzVFjRBGMkvfGPiYiZ9o3hamift52UQeBxom2abJJ0VX69w%3d%3d&hdntl=exp=1572970366~acl=%2f*~data=hdntl~hmac=dbea74689597588912b18015fdcd5033119164cc5d51ac582f3a1fd3f203c5e8
 #EXTINF:-1, group-title="PINOY TV", TV5/ESPN 5
