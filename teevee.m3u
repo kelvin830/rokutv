@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA LIVE", Blazers @ Clippers
+#EXTINF:-1, group-title="NBA LIVE", Blazers @ Clippers 1
+http://yas.cavaliersz.xyz/show/tnt/chunks.m3u8
+#EXTINF:-1, group-title="NBA LIVE", Blazers @ Clippers 2
 https://bit.ly/2Keb4rt
 #EXTINF:-1, group-title="PINOY TV", ABS CBN
 https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbnhd_1@388790/index_1500_av-p.m3u8?sd=10&rebase=on&sd=10&rebase=on&id=AgBnDFtyF8iOFwU9xF19wO7RM8VOCCjcs6clKg+Fw5HSiSQ+4GV0Jz50P0tB1ycWy5ssaxmQpu5JOw%3d%3d&hdntl=exp=1573228165~acl=%2f*~data=hdntl~hmac=56027fc01a6e466b39943288934144950a48f94d2145317dadb9d15cdbb3f24d
