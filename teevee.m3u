@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA LIVE", Kings @ Hawks
-http://thu.allenz.xyz/show/atl/chunks.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Warriors @ TWolves
 hhttp://thu.allenz.xyz/show/min/chunks.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Raptors @ Pelicans
@@ -12,7 +10,7 @@ http://thu.allenz.xyz/show/den/chunks.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Bucks @ Jazz
 http://thu.allenz.xyz/show/uta/chunks.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Nets @ Blazers
-https://bit.ly/34Ja3PL
+http://thu.allenz.xyz/show/por/chunks.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Heat @ Lakers
 https://bit.ly/2K3hNnJ
 #EXTINF:-1, group-title="PINOY TV", ABS CBN
