@@ -17,6 +17,8 @@ http://the.bullsz.xyz/show/por/chunks.m3u8
 http://the.bullsz.xyz/show/lal/chunks.m3u8
 #EXTINF:-1, group-title="PINOY TV", ABS CBN
 https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbnhd_1@388790/index_1500_av-p.m3u8?sd=10&rebase=on&sd=10&rebase=on&id=AgCYIGQlykW4Bd+LyF16qTuuOvKIalSUXBkxqVuESP4h4cpyXHiPk%2fhfXBKVoMc3i6wCIfIWlH7EAQ%3d%3d&hdntl=exp=1573510495~acl=%2f*~data=hdntl~hmac=adac92b9b2e1fca104fd178aef5649ee336986e7260e16727b34963dcaf57037
+#EXTINF:-1, group-title="PINOY TV", DZMM TELERADYO
+https://iwantpradals2-lh.akamaihd.net/i/ocpdzmm_1@520817/index_800_av-b.m3u8?sd=10&rebase=on&sd=10&rebase=on&id=AgCYIGQlykW4ByCMyF279xGEFTnlyUhwoVRUhUhR+edBrZlHWFRrtvVBemMXZQbeRZJmd1QrLvHhdw%3d%3d&hdntl=exp=1573510560~acl=%2f*~data=hdntl~hmac=e90afaecb9b14998846dac363f3ceebada0e30fc6b77051decd2456ed49dc407
 #EXTINF:-1, group-title="PINOY TV", TV5/ESPN 5
 http://stream3.news5.ph/n5e/tv5/chunklist_w1085149194.m3u8
 #EXTINF:-1, group-title="PINOY TV", AKSYON TV
