@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, group-title="PINOY TV", UAAP UP vs UST
+https://iwantvsphls-lh.akamaihd.net/i/iwantuaap_1@388685/index_5_av-p.m3u8?sd=10&rebase=on&sd=10&rebase=on&id=AgCYIGQlFzSrN32wy11UO+V%2fCpNEA7KE1kgp6Dk73X%2fvRFo5qKJHBvnJSFJrDRaZl5PHsZn5vWiotg%3d%3d&hdntl=exp=1573716477~acl=%2f*~data=hdntl~hmac=e0d4681632372ca6b72e08f506222c22a36bc16212b1f74edfef1377d4c51ca1
 #EXTINF:-1, group-title="PINOY TV", ABS CBN
 https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbnhd_1@388790/index_1500_av-p.m3u8?sd=10&rebase=on&sd=10&rebase=on&id=AgCYIGQlykW4DBLQyl1k1iZH0RTBAHnfSzt31RVpFZeFVAPvWLvqussmiv3kvF0E%2fuoH9RdRNe9nCg%3d%3d&hdntl=exp=1573659026~acl=%2f*~data=hdntl~hmac=a67a7e08aa1f5363e0270c5811ed11d3c576c9d4126c0a911c1375a2319141d9
 #EXTINF:-1, group-title="PINOY TV", DZMM TELERADYO
